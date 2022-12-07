@@ -19,6 +19,7 @@ export const GlobalStyle = createGlobalStyle`
   body{
     font-family: 'Roboto', sans-serif;
     margin: 30px 100px;
+    overflow: hidden;
   }
 
   .root{
